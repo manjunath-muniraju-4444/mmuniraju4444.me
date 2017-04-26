@@ -1,6 +1,2 @@
-.idea/Node.iml
-.idea/jsLibraryMappings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-scr/app_moduels/
+.idea
+scr/node_modules
