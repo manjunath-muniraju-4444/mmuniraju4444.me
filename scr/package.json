@@ -1,0 +1,11 @@
+{
+	"name" : "mmuniraju4444.me",
+	"private" : true,
+	"version" : "0.0.1",
+	"author" : "Manjunath Muniraju <mmuniraju4444@gmail.com>",
+	"dependencies" : {
+		"express" : "4.x",
+		"pug" : "2.0.0-beta11",
+		"mariasql" : "0.2.x"
+	}
+}
